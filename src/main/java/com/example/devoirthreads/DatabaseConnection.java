@@ -6,7 +6,7 @@ public class DatabaseConnection {
     // Database configuration parameters
     private static final String URL = "jdbc:mysql://localhost:3306/devoir";
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "Souiki@2003";
+    private static final String PASSWORD = "";
 
     // Statically load the driver
     static {
