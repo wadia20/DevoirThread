@@ -1,0 +1,8 @@
+{
+  "orders" : [ {
+    "id" : 6,
+    "date" : "2024-03-15",
+    "amount" : 129.5,
+    "customer_id" : 7
+  } ]
+}

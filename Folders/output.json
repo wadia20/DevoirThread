@@ -1,0 +1,28 @@
+{
+  "orders" : [ {
+    "id" : 1,
+    "date" : "2024-03-15",
+    "amount" : 129.5,
+    "customer_id" : 2
+  }, {
+    "id" : 2,
+    "date" : "2024-03-16",
+    "amount" : 245.75,
+    "customer_id" : 1
+  }, {
+    "id" : 3,
+    "date" : "2024-03-17",
+    "amount" : 87.3,
+    "customer_id" : 3
+  }, {
+    "id" : 4,
+    "date" : "2024-03-18",
+    "amount" : 352.9,
+    "customer_id" : 4
+  }, {
+    "id" : 5,
+    "date" : "2024-03-19",
+    "amount" : 56.4,
+    "customer_id" : 2
+  } ]
+}
